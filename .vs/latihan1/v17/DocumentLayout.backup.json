@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\grantly\\latihan1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40ADE55-3440-4BF1-A0BA-D1C8F5A81F33}|latihan1\\latihan1.csproj|C:\\Users\\user\\Downloads\\grantly\\latihan1\\latihan1\\frmregis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A40ADE55-3440-4BF1-A0BA-D1C8F5A81F33}|latihan1\\latihan1.csproj|solutionrelative:latihan1\\frmregis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40ADE55-3440-4BF1-A0BA-D1C8F5A81F33}|latihan1\\latihan1.csproj|c:\\users\\user\\downloads\\grantly\\latihan1\\latihan1\\frmregis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40ADE55-3440-4BF1-A0BA-D1C8F5A81F33}|latihan1\\latihan1.csproj|solutionrelative:latihan1\\frmregis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40ADE55-3440-4BF1-A0BA-D1C8F5A81F33}|latihan1\\latihan1.csproj|C:\\Users\\user\\Downloads\\grantly\\latihan1\\latihan1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40ADE55-3440-4BF1-A0BA-D1C8F5A81F33}|latihan1\\latihan1.csproj|solutionrelative:latihan1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FRMRegis.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\grantly\\latihan1\\latihan1\\FRMRegis.cs",
+              "RelativeDocumentMoniker": "latihan1\\FRMRegis.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\grantly\\latihan1\\latihan1\\FRMRegis.cs",
+              "RelativeToolTip": "latihan1\\FRMRegis.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAADgv9kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:26:39.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\grantly\\latihan1\\latihan1\\Program.cs",
+              "RelativeDocumentMoniker": "latihan1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\grantly\\latihan1\\latihan1\\Program.cs",
+              "RelativeToolTip": "latihan1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:26:39.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FRMRegis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\grantly\\latihan1\\latihan1\\FRMRegis.cs",
+              "RelativeDocumentMoniker": "latihan1\\FRMRegis.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\grantly\\latihan1\\latihan1\\FRMRegis.cs [Design]",
+              "RelativeToolTip": "latihan1\\FRMRegis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:26:39.733Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

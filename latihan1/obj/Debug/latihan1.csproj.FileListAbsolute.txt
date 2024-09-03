@@ -1,0 +1,21 @@
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\bin\Debug\latihan1.exe.config
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\bin\Debug\latihan1.exe
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\bin\Debug\latihan1.pdb
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\obj\Debug\latihan1.csproj.AssemblyReference.cache
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\obj\Debug\latihan1.csproj.SuggestedBindingRedirects.cache
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\obj\Debug\latihan1.FRMRegis.resources
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\obj\Debug\latihan1.Properties.Resources.resources
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\obj\Debug\latihan1.csproj.GenerateResource.cache
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\obj\Debug\latihan1.csproj.CoreCompileInputs.cache
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\obj\Debug\latihan1.exe
+C:\Users\VISUAL PROGRAM\Documents\grantly\latihan1\latihan1\obj\Debug\latihan1.pdb
+C:\Users\user\Downloads\grantly\latihan1\latihan1\bin\Debug\latihan1.exe.config
+C:\Users\user\Downloads\grantly\latihan1\latihan1\bin\Debug\latihan1.exe
+C:\Users\user\Downloads\grantly\latihan1\latihan1\bin\Debug\latihan1.pdb
+C:\Users\user\Downloads\grantly\latihan1\latihan1\obj\Debug\latihan1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\grantly\latihan1\latihan1\obj\Debug\latihan1.FRMRegis.resources
+C:\Users\user\Downloads\grantly\latihan1\latihan1\obj\Debug\latihan1.Properties.Resources.resources
+C:\Users\user\Downloads\grantly\latihan1\latihan1\obj\Debug\latihan1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\grantly\latihan1\latihan1\obj\Debug\latihan1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\grantly\latihan1\latihan1\obj\Debug\latihan1.exe
+C:\Users\user\Downloads\grantly\latihan1\latihan1\obj\Debug\latihan1.pdb
